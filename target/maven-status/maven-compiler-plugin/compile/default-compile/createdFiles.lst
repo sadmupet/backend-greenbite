@@ -1,0 +1,11 @@
+com\greenbite\bff\domain\DashboardData$Product$ProductBuilder.class
+com\greenbite\bff\domain\Subscription.class
+com\greenbite\bff\BffApplication.class
+com\greenbite\bff\infrastructure\MicroserviceClient.class
+com\greenbite\bff\application\SecurityConfig.class
+com\greenbite\bff\domain\DashboardData.class
+com\greenbite\bff\domain\DashboardData$Product.class
+com\greenbite\bff\application\DashboardController.class
+com\greenbite\bff\application\SubscriptionController.class
+com\greenbite\bff\domain\DashboardData$DashboardDataBuilder.class
+com\greenbite\bff\domain\Subscription$SubscriptionBuilder.class
